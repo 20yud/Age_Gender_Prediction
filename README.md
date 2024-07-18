@@ -24,3 +24,13 @@ This project predicts age and gender using a trained model.
    ```sh
    streamlit main.py
 
+![04aa2377fa3d5f63062c](https://github.com/user-attachments/assets/bfaf4630-56ba-4541-9278-71094b3b53ab)
+
+![3fa06fd9b59310cd4982](https://github.com/user-attachments/assets/2dbcc8f8-592f-4678-9786-62a06f37d1bc)
+
+![c08d91295363f63daf72](https://github.com/user-attachments/assets/66aea867-fd47-4d90-9b4c-10cfcbe4ff17)
+
+
+
+   
+
