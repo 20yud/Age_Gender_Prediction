@@ -13,7 +13,7 @@ This project predicts age and gender using a trained model.
 
 1. **Clone the repository**:
    ```sh
-   [git clone https://github.com/yourusername/your-repository.git](https://github.com/20yud/Age_Gender_Prediction)
+   git clone https://github.com/20yud/Age_Gender_Prediction
 2. **Install Libraries**:
    ```sh
    pip install -r requirements.txt
