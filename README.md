@@ -18,7 +18,7 @@ This project predicts age and gender using a trained model.
    pip install -r requirements.txt
 3. **Move Folder**:
    ```sh
-  Download the model files from the provided Google Drive link and place the model folder in the project directory.
+   Download the model files from the provided Google Drive link and place the model folder in the project directory.
 4. **Run**:
    ```sh
    streamlit main.py
